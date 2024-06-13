@@ -1,0 +1,26 @@
+{
+"manifest_version": 2,
+  "short_name": "Only Always Never",
+  "name": "Only Always Never: Infectious Storytelling",
+  "description": "an interactive story",
+  "icons": [
+    {
+      "src": "/IS/icon192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/IS/icon512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "/IS/index.html",
+  "background_color": "black",
+  "orientation": "portrait",
+  "display": "minimal-ui",
+  "scope": "/",
+  "theme_color": "#fc6900"
+}
